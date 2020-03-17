@@ -1,0 +1,2 @@
+# Arduino_libroDeProyectos_indicadorDelEstadoDeAnimo
+Cambio de escala de rango
